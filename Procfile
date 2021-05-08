@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run TrafficCollisionsNYC,py
+web: sh setup.sh && streamlit run TrafficCollisionsNYC.py
